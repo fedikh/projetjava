@@ -1,0 +1,9 @@
+java_project\Main.class
+java_project\GraphManaging.class
+java_project\UndirectedGraph.class
+java_project\Graph.class
+java_project\Tree.class
+java_project\DirectedGraph.class
+java_project\WeightedGraph.class
+java_project\IGraphManaging.class
+java_project\DatabaseTest.class

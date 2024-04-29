@@ -1,0 +1,49 @@
+@options
+@packages
+-classpath
+'C:/Users/ASUS/.m2/repository/org/postgresql/postgresql/42.7.3/postgresql-42.7.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/ASUS/Downloads/ProjetJava-main/src/main/java;C:/Users/ASUS/Downloads/ProjetJava-main/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/ASUS/Downloads/ProjetJava-main/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'java_project 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'java_project 1.0-SNAPSHOT API'
+java_project
+C:\Users\ASUS\.m2\repository\org\postgresql\postgresql\42.7.3\postgresql-42.7.3.jar = 1710441706000
+C:\Users\ASUS\Downloads\ProjetJava-main\src\main\java = 1714252972000
+C:\Users\ASUS\Downloads\ProjetJava-main\target\generated-sources\annotations = 1714255683321
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\allclasses-index.html = 1714322102568
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\allpackages-index.html = 1714322102571
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\copy.svg = 1714322102603
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\element-list = 1714322102506
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\help-doc.html = 1714322102599
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\index-all.html = 1714322102591
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\index.html = 1714322102595
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\link.svg = 1714322102605
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\member-search-index.js = 1714322102576
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\module-search-index.js = 1714322102573
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\overview-tree.html = 1714322102551
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\package-search-index.js = 1714322102574
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\script.js = 1714322102602
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\search-page.js = 1714322102608
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\search.html = 1714322102593
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\search.js = 1714322102607
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\stylesheet.css = 1714322102601
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\tag-search-index.js = 1714322102577
+C:\Users\ASUS\Downloads\ProjetJava-main\target\apidocs\type-search-index.js = 1714322102575
